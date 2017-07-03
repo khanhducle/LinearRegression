@@ -1,4 +1,4 @@
-# LinearRegression
+# Linear Regression
 
 Implementation of linear regression with gradient descent
 
